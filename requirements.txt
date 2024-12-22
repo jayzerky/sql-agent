@@ -1,0 +1,7 @@
+python-dotenv
+openai
+langchain_community
+langchain_openai
+pyodbc
+SQLAlchemy
+requests
