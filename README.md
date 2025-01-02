@@ -1,5 +1,5 @@
 SQL Agent Description
-Our custom SQL agent is a powerful data query and response system built using Python, LangChain, and Azure OpenAI. The agent streamlines the process of turning natural-language questions into actionable insights from a database. Here’s how it works step-by-step:
+My custom SQL agent is a powerful data query and response system built using Python, LangChain, and Azure OpenAI. The agent streamlines the process of turning natural-language questions into actionable insights from a database. Here’s how it works step-by-step:
 
 Natural Language to SQL Conversion
 
